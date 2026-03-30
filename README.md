@@ -92,11 +92,6 @@ https://logic-tester-ai.lovable.app
 
 ---
 
-## 💼 Resume Description
-
-Developed an AI-powered test case generator that analyzes code and function logic to automatically produce comprehensive test scenarios, including edge cases and negative tests, improving test coverage and developer productivity.
-
----
 
 ## 🚀 Future Improvements
 
