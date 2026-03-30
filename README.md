@@ -38,7 +38,25 @@ https://logic-tester-ai.lovable.app
 
 ## 🖥️ Demo
 
-(Add screenshots here if you want to boost impact)
+#### Homepage
+
+<img width="1920" height="1032" alt="Homepage" src="https://github.com/user-attachments/assets/3f6d28a8-7a06-493f-bcd3-1283f19e3c6c" />
+
+
+#### Application Screenshots
+<img width="1920" height="1032" alt="Test1" src="https://github.com/user-attachments/assets/11e011ed-2e9f-4b8f-9fae-0accb79af779" />
+
+<img width="1920" height="1032" alt="Test2" src="https://github.com/user-attachments/assets/7f09da54-89bc-48a4-b8d5-55e5957508be" />
+
+<img width="1920" height="1032" alt="Test3" src="https://github.com/user-attachments/assets/24d46818-5dd9-4c41-b69f-2488e2ea0af3" />
+
+<img width="1920" height="1032" alt="Test4" src="https://github.com/user-attachments/assets/821459db-eb95-4d42-a9e8-973bf2903fb7" />
+
+<img width="1920" height="1032" alt="Test5" src="https://github.com/user-attachments/assets/20e1c3dc-0f18-4a39-b806-71bad5a93dd9" />
+
+<img width="1920" height="1032" alt="Test6" src="https://github.com/user-attachments/assets/eeea7691-6c1a-4ef3-b2bd-9b3eda6a8e03" />
+
+<img width="1920" height="1032" alt="Test7" src="https://github.com/user-attachments/assets/c1ab6104-1c4c-419e-a2d6-af32b1bcb355" />
 
 ---
 
