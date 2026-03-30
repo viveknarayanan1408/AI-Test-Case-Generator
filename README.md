@@ -114,8 +114,7 @@ https://logic-tester-ai.lovable.app
 ## 🚀 Future Improvements
 
 * Generate unit test code (xUnit, NUnit, Jest)
-* Test coverage scoring system
-* Export test cases (PDF / JSON)
+* Export test cases (PDF)
 * Integration with GitHub repositories
 * Real-time suggestions while coding
 
